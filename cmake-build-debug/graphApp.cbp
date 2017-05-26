@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="graphApp"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="C:/Users/sanchi/Downloads/graphApp/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/MINGW-~1/X86_64~1.2-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/sanchi/Downloads/graphApp/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="C:/PROGRA~1/MINGW-~1/X86_64~1.2-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/sanchi/Downloads/graphApp/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/MINGW-~1/X86_64~1.2-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/sanchi/Downloads/graphApp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/MINGW-~1/X86_64~1.2-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/sanchi/Downloads/graphApp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="graphApp">
+				<Option output="C:/Users/sanchi/Downloads/graphApp/cmake-build-debug/graphApp.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/sanchi/Downloads/graphApp/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-4.9.2-posix-seh-rt_v4-rev2/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/include"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-4.9.2-posix-seh-rt_v4-rev2/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/include-fixed"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-4.9.2-posix-seh-rt_v4-rev2/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/../../../../x86_64-w64-mingw32/include"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-4.9.2-posix-seh-rt_v4-rev2/mingw64/lib/gcc/../../x86_64-w64-mingw32/include/c++"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-4.9.2-posix-seh-rt_v4-rev2/mingw64/lib/gcc/../../x86_64-w64-mingw32/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-4.9.2-posix-seh-rt_v4-rev2/mingw64/lib/gcc/../../x86_64-w64-mingw32/include/c++/backward"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/MINGW-~1/X86_64~1.2-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/sanchi/Downloads/graphApp/cmake-build-debug/Makefile&quot;  VERBOSE=1 graphApp"/>
+					<CompileFile command="C:/PROGRA~1/MINGW-~1/X86_64~1.2-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/sanchi/Downloads/graphApp/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/MINGW-~1/X86_64~1.2-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/sanchi/Downloads/graphApp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/MINGW-~1/X86_64~1.2-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/sanchi/Downloads/graphApp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="graphApp/fast">
+				<Option output="C:/Users/sanchi/Downloads/graphApp/cmake-build-debug/graphApp.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/sanchi/Downloads/graphApp/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-4.9.2-posix-seh-rt_v4-rev2/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/include"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-4.9.2-posix-seh-rt_v4-rev2/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/include-fixed"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-4.9.2-posix-seh-rt_v4-rev2/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/../../../../x86_64-w64-mingw32/include"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-4.9.2-posix-seh-rt_v4-rev2/mingw64/lib/gcc/../../x86_64-w64-mingw32/include/c++"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-4.9.2-posix-seh-rt_v4-rev2/mingw64/lib/gcc/../../x86_64-w64-mingw32/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-4.9.2-posix-seh-rt_v4-rev2/mingw64/lib/gcc/../../x86_64-w64-mingw32/include/c++/backward"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/MINGW-~1/X86_64~1.2-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/sanchi/Downloads/graphApp/cmake-build-debug/Makefile&quot;  VERBOSE=1 graphApp/fast"/>
+					<CompileFile command="C:/PROGRA~1/MINGW-~1/X86_64~1.2-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/sanchi/Downloads/graphApp/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/MINGW-~1/X86_64~1.2-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/sanchi/Downloads/graphApp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/MINGW-~1/X86_64~1.2-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/sanchi/Downloads/graphApp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="C:/Users/sanchi/Downloads/graphApp/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/MINGW-~1/X86_64~1.2-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/sanchi/Downloads/graphApp/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="C:/PROGRA~1/MINGW-~1/X86_64~1.2-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/sanchi/Downloads/graphApp/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/MINGW-~1/X86_64~1.2-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/sanchi/Downloads/graphApp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/MINGW-~1/X86_64~1.2-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/sanchi/Downloads/graphApp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="C:/Users/sanchi/Downloads/graphApp/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/MINGW-~1/X86_64~1.2-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/sanchi/Downloads/graphApp/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="C:/PROGRA~1/MINGW-~1/X86_64~1.2-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/sanchi/Downloads/graphApp/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/MINGW-~1/X86_64~1.2-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/sanchi/Downloads/graphApp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/MINGW-~1/X86_64~1.2-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/sanchi/Downloads/graphApp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="C:/Users/sanchi/Downloads/graphApp/graphApp/BarGraph.cpp">
+			<Option target="graphApp"/>
+		</Unit>
+		<Unit filename="C:/Users/sanchi/Downloads/graphApp/graphApp/BarGraph.h">
+			<Option target="graphApp"/>
+		</Unit>
+		<Unit filename="C:/Users/sanchi/Downloads/graphApp/graphApp/Graph.cpp">
+			<Option target="graphApp"/>
+		</Unit>
+		<Unit filename="C:/Users/sanchi/Downloads/graphApp/graphApp/Graph.h">
+			<Option target="graphApp"/>
+		</Unit>
+		<Unit filename="C:/Users/sanchi/Downloads/graphApp/graphApp/LineGraph.cpp">
+			<Option target="graphApp"/>
+		</Unit>
+		<Unit filename="C:/Users/sanchi/Downloads/graphApp/graphApp/LineGraph.h">
+			<Option target="graphApp"/>
+		</Unit>
+		<Unit filename="C:/Users/sanchi/Downloads/graphApp/graphApp/Point.cpp">
+			<Option target="graphApp"/>
+		</Unit>
+		<Unit filename="C:/Users/sanchi/Downloads/graphApp/graphApp/Point.h">
+			<Option target="graphApp"/>
+		</Unit>
+		<Unit filename="C:/Users/sanchi/Downloads/graphApp/graphApp/PointGraph.cpp">
+			<Option target="graphApp"/>
+		</Unit>
+		<Unit filename="C:/Users/sanchi/Downloads/graphApp/graphApp/PointGraph.h">
+			<Option target="graphApp"/>
+		</Unit>
+		<Unit filename="C:/Users/sanchi/Downloads/graphApp/graphApp/graphApp.cpp">
+			<Option target="graphApp"/>
+		</Unit>
+		<Unit filename="C:/Users/sanchi/Downloads/graphApp/graphApp/stdafx.cpp">
+			<Option target="graphApp"/>
+		</Unit>
+		<Unit filename="C:/Users/sanchi/Downloads/graphApp/graphApp/stdafx.h">
+			<Option target="graphApp"/>
+		</Unit>
+		<Unit filename="C:/Users/sanchi/Downloads/graphApp/graphApp/targetver.h">
+			<Option target="graphApp"/>
+		</Unit>
+		<Unit filename="C:/Users/sanchi/Downloads/graphApp/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

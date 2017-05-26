@@ -1,0 +1,5 @@
+Sample Graph Data
+Subject	Marks
+1	23
+2	12
+3	34
